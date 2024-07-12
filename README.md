@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Erik santiago Bautista</h1>
 <h3 align="center">I'm passionate developer from Mexico</h3>
 
-- 🌱 I’m currently learning **springboot and java**
+- 🌱 I’m currently learning development full stack
 
-- 💬 Ask me about **java, spring boot and react**
+- 💬 Ask me about ** my projects**
 
 - 📫 How to reach me **canonical32@gmail.com**
 
