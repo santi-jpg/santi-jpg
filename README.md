@@ -8,9 +8,8 @@
 - 📫 How to reach me **canonical32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/erik code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="erik code" height="30" width="40" /></a>
-<a href="https://fb.com/erik santiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erik santiago" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/erik-santiago-bautista-7470772a9/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" alt="erik santiago" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
